@@ -4,13 +4,13 @@
  }
 
 :root {
-    --color: #ffa303d7;
+    --color: #105709d7;
     --laranja: #ffa200;
     --color-background: #000;
-    --color-primary: rgb(255, 255, 255);
-    --color-secondary: #FFD700;
-    --color-text: #fff;
-    --color-btn-text: #000;
+    --color-primary: rgb(64, 212, 26);
+    --color-secondary: #5bb690;
+    --color-text: #f6fa0b;
+    --color-btn-text: #f8f418;
     --color-btn-bg-hover: #e0c200;
     --color-btn-bg: #FFD700;
     --color-input-border: #ccc;
